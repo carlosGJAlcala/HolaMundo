@@ -1,0 +1,3 @@
+-IC:\Users\carlo\Desktop\Proyecto\holamundo\holamundo\holamundo
+-target
+x86_64-w64-mingw32
